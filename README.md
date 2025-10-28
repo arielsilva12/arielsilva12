@@ -2,9 +2,12 @@
 
 # 👩🏻‍💻 Ólá, eu sou Ariel Silva!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Designer+Gr%C3%A1fico+%2B+Dev+Front-end;Criando+experi%C3%AAncias+digitais;Design+%2B+C%C3%B3digo+%3D+Inova%C3%A7%C3%A3o;Transformando+ideias+em+realidade" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Designer+Gr%C3%A1fico+%2B+Dev+Front-end" alt="Typing SVG" />
 
-### Um designer e desenvolvedor apaixonado por criar experiências digitais incríveis
+### Web Designer
+
+![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-Freelance-00D9FF?style=for-the-badge)
+![Available for Hire](https://img.shields.io/badge/✨_Disponível_para_Freelas-Sim-25D366?style=for-the-badge)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
