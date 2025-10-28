@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩🏻‍💻 Ólá, eu sou Ariel Silva!
+# 👩🏻‍💻 Olá, eu sou Ariel Silva!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Designer+Gr%C3%A1fico+%2B+Dev+Front-end" alt="Typing SVG" />
 
